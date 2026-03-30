@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm passionate about Software and data<br>Full-stack developer
+ I'm passionate about Software and data
 
 
 # 💻 Tech Stack:
@@ -9,7 +9,7 @@ I'm passionate about Software and data<br>Full-stack developer
 ![](https://nirzak-streak-stats.vercel.app/?user=Joakimtech&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joakimtech&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+ ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joakimtech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   ## 💰 You can help me by Donating
